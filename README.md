@@ -1,2 +1,2 @@
 # AI-Password-Cracker
-Password cracker built from an AI prompting exercise
+Password cracker script built from an AI prompting exercise
